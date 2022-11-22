@@ -1,8 +1,5 @@
-package main
+package say_hello
 
 func SayHello() string {
 	return "Hello"
-}
-func main() {
-
 }
